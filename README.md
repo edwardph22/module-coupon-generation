@@ -12,7 +12,7 @@ php bin/magento setup:static-content:deploy -f
 ```
 
 ###### manage faq extension
-manage faq by navigation to ```Landofcoder > Coupon```
+manage Coupon Code Generation by navigation to ```Admin > Landofcoder > Coupon```
 
 
 ###### Release Note
